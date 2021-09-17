@@ -1,0 +1,79 @@
+{
+    "MaxGenerationPossible": 576,
+    "Teeth": [
+        {
+            "Black Normal": "0.00%"
+        },
+        {
+            "White Normal": "40.00%"
+        },
+        {
+            "White Missing Teeth": "60.00%"
+        },
+        {
+            "Black Missing Teeth": "0.00%"
+        }
+    ],
+    "Bones": [
+        {
+            "Black Bones": "0.00%"
+        },
+        {
+            "White Bones": "100.00%"
+        }
+    ],
+    "Expression": [
+        {
+            "White Normal": "40.00%"
+        },
+        {
+            "Wink": "60.00%"
+        }
+    ],
+    "Hand": [
+        {
+            "White Middle Finger": "10.00%"
+        },
+        {
+            "White Peace Finger": "50.00%"
+        },
+        {
+            "Black Middle Finger": "0.00%"
+        },
+        {
+            "Black Peace Finger": "0.00%"
+        },
+        {
+            "White Okay Finger": "40.00%"
+        }
+    ],
+    "Accessories": [
+        {
+            "3d glasses": "40.00%"
+        }
+    ],
+    "Hair": [
+        {
+            "Mustache": "30.00%"
+        }
+    ],
+    "Hat": [
+        {
+            "Yellow Crown Red Gems": "20.00%"
+        },
+        {
+            "Halo": "20.00%"
+        },
+        {
+            "Durag": "10.00%"
+        }
+    ],
+    "BodySuit": [
+        {
+            "Goo": "20.00%"
+        },
+        {
+            "Shirt": "30.00%"
+        }
+    ]
+}

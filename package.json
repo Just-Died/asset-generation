@@ -1,0 +1,35 @@
+{
+  "name": "asset-generation",
+  "version": "0.0.1",
+  "description": "Generates unique NFT assets",
+  "main": "index.js",
+  "scripts": {
+    "gen-dna": "ts-node generateDna.ts",
+    "gen-img": "ts-node generateImages.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-Died/asset-generation.git"
+  },
+  "keywords": [
+    "NFT",
+    "Blockchain",
+    "Polygon",
+    "Matic"
+  ],
+  "author": "aa-deet-eeya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Just-Died/asset-generation/issues"
+  },
+  "homepage": "https://github.com/Just-Died/asset-generation#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.10"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "dotenv": "^10.0.0",
+    "nft.storage": "^3.2.0",
+    "ts-node": "^10.2.1"
+  }
+}
