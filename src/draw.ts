@@ -73,10 +73,10 @@ class Image {
     
     private saveImage = (_editionCount) => {
         fs.writeFileSync(
-            `./generated/images/${_editionCount}.png`,
+            `./generated/assets/${_editionCount}.png`,
             this._canvas.toBuffer("image/png", { 
                 // compressionLevel: 0,
-                // resolution: 1024 
+                resolution: 2048 
             })
         );
 
