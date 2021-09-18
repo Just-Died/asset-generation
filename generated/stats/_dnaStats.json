@@ -1,79 +1,211 @@
 {
-    "MaxGenerationPossible": 576,
+    "MaxGenerationPossible": 96768,
     "Teeth": [
         {
-            "Black Normal": "0.00%"
+            "Buck Teeth": "8.41%"
         },
         {
-            "White Normal": "40.00%"
+            "Gold Teeth": "8.42%"
         },
         {
-            "White Missing Teeth": "60.00%"
+            "Missing Teeth": "8.31%"
         },
         {
-            "Black Missing Teeth": "0.00%"
+            "Normal": "8.58%"
+        },
+        {
+            "Buck Teeth": "8.40%"
+        },
+        {
+            "Gold Teeth": "8.44%"
+        },
+        {
+            "Missing Teeth": "8.16%"
+        },
+        {
+            "Normal": "8.19%"
+        },
+        {
+            "Buck Teeth": "8.64%"
+        },
+        {
+            "Gold Teeth": "8.22%"
+        },
+        {
+            "Missing Teeth": "8.10%"
+        },
+        {
+            "Normal": "8.13%"
         }
     ],
     "Bones": [
         {
-            "Black Bones": "0.00%"
+            "Black": "33.72%"
         },
         {
-            "White Bones": "100.00%"
+            "Rainbow": "33.19%"
+        },
+        {
+            "White": "33.09%"
         }
     ],
     "Expression": [
         {
-            "White Normal": "40.00%"
+            "Dead": "8.45%"
         },
         {
-            "Wink": "60.00%"
+            "Mischievous": "8.71%"
+        },
+        {
+            "Neutral": "8.12%"
+        },
+        {
+            "Wink": "8.44%"
+        },
+        {
+            "Dead": "8.53%"
+        },
+        {
+            "Mischievous": "8.16%"
+        },
+        {
+            "Neutral": "8.16%"
+        },
+        {
+            "Wink": "8.34%"
+        },
+        {
+            "Dead": "8.63%"
+        },
+        {
+            "Mischievous": "8.56%"
+        },
+        {
+            "Neutral": "7.86%"
+        },
+        {
+            "Wink": "8.04%"
         }
     ],
     "Hand": [
         {
-            "White Middle Finger": "10.00%"
+            "Juice Box": "5.78%"
         },
         {
-            "White Peace Finger": "50.00%"
+            "Middle Finger": "5.76%"
         },
         {
-            "Black Middle Finger": "0.00%"
+            "Okay": "5.63%"
         },
         {
-            "Black Peace Finger": "0.00%"
+            "Peace": "5.60%"
         },
         {
-            "White Okay Finger": "40.00%"
+            "Smoke": "5.46%"
+        },
+        {
+            "Taco": "5.49%"
+        },
+        {
+            "Juice Box": "5.44%"
+        },
+        {
+            "Middle Finger": "5.64%"
+        },
+        {
+            "Okay": "5.68%"
+        },
+        {
+            "Peace": "5.43%"
+        },
+        {
+            "Smoke": "5.60%"
+        },
+        {
+            "Taco": "5.40%"
+        },
+        {
+            "Juice Box": "5.26%"
+        },
+        {
+            "Middle Finger": "5.74%"
+        },
+        {
+            "Okay": "5.19%"
+        },
+        {
+            "Peace": "5.37%"
+        },
+        {
+            "Smoke": "5.64%"
+        },
+        {
+            "Taco": "5.89%"
         }
     ],
     "Accessories": [
         {
-            "3d glasses": "40.00%"
+            "3d Glasses": "26.49%"
+        },
+        {
+            "Fire Eyes": "26.39%"
         }
     ],
     "Hair": [
         {
-            "Mustache": "30.00%"
+            "Mustache": "50.16%"
         }
     ],
     "Hat": [
         {
-            "Yellow Crown Red Gems": "20.00%"
+            "Devil Horns": "4.77%"
         },
         {
-            "Halo": "20.00%"
+            "Durag": "5.06%"
         },
         {
-            "Durag": "10.00%"
+            "Halo": "4.37%"
+        },
+        {
+            "Silver Crown Blue Gems": "5.27%"
+        },
+        {
+            "Silver Crown Green Gems": "4.67%"
+        },
+        {
+            "Silver Crown Red Gems": "4.86%"
+        },
+        {
+            "Yellow Crown Blue Gems": "4.79%"
+        },
+        {
+            "Yellow Crown Red Gems": "4.97%"
+        },
+        {
+            "Green Mohawk1": "4.69%"
+        },
+        {
+            "Hat Green": "4.65%"
+        },
+        {
+            "Hat Purple": "4.97%"
+        },
+        {
+            "Somb Blue": "4.96%"
+        },
+        {
+            "Somb Green": "4.60%"
         }
     ],
-    "BodySuit": [
+    "Shirt": [
         {
-            "Goo": "20.00%"
+            "Green1": "18.36%"
         },
         {
-            "Shirt": "30.00%"
+            "Ilovemilk": "18.92%"
+        },
+        {
+            "Tiedye4": "18.30%"
         }
     ]
 }

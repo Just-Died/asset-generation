@@ -4,8 +4,9 @@
   "description": "Generates unique NFT assets",
   "main": "index.js",
   "scripts": {
-    "gen-dna": "ts-node generateDna.ts",
-    "gen-img": "ts-node generateImages.ts"
+    "gdna": "ts-node generateDna.ts",
+    "gimg": "ts-node generateImages.ts",
+    "gconfig": "ts-node generateLayers.ts"
   },
   "repository": {
     "type": "git",
@@ -24,11 +25,13 @@
   },
   "homepage": "https://github.com/Just-Died/asset-generation#readme",
   "devDependencies": {
+    "@types/glob": "^7.1.4",
     "@types/node": "^16.7.10"
   },
   "dependencies": {
     "canvas": "^2.8.0",
     "dotenv": "^10.0.0",
+    "glob": "^7.1.7",
     "nft.storage": "^3.2.0",
     "ts-node": "^10.2.1"
   }

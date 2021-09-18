@@ -1,0 +1,518 @@
+[
+    {
+        "name": "Teeth",
+        "required": true,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Buck Teeth",
+                "colorScheme": "black",
+                "filename": "./layers/Teeth/black bone/buck teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Gold Teeth",
+                "colorScheme": "black",
+                "filename": "./layers/Teeth/black bone/gold teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "Missing Teeth",
+                "colorScheme": "black",
+                "filename": "./layers/Teeth/black bone/missing teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 3,
+                "name": "Normal",
+                "colorScheme": "black",
+                "filename": "./layers/Teeth/black bone/normal.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 4,
+                "name": "Buck Teeth",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Teeth/rainbow bone/buck teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 5,
+                "name": "Gold Teeth",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Teeth/rainbow bone/gold teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 6,
+                "name": "Missing Teeth",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Teeth/rainbow bone/missing teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 7,
+                "name": "Normal",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Teeth/rainbow bone/normal.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 8,
+                "name": "Buck Teeth",
+                "colorScheme": "white",
+                "filename": "./layers/Teeth/white bone/buck teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 9,
+                "name": "Gold Teeth",
+                "colorScheme": "white",
+                "filename": "./layers/Teeth/white bone/gold teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 10,
+                "name": "Missing Teeth",
+                "colorScheme": "white",
+                "filename": "./layers/Teeth/white bone/missing teeth.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 11,
+                "name": "Normal",
+                "colorScheme": "white",
+                "filename": "./layers/Teeth/white bone/normal.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Bones",
+        "required": true,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Black",
+                "colorScheme": "black",
+                "filename": "./layers/Bones/black.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Rainbow",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Bones/rainbow.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "White",
+                "colorScheme": "white",
+                "filename": "./layers/Bones/white.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Expression",
+        "required": true,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Dead",
+                "colorScheme": "black",
+                "filename": "./layers/Expression/black bone/dead.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Mischievous",
+                "colorScheme": "black",
+                "filename": "./layers/Expression/black bone/mischievous.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "Neutral",
+                "colorScheme": "black",
+                "filename": "./layers/Expression/black bone/neutral.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 3,
+                "name": "Wink",
+                "colorScheme": "black",
+                "filename": "./layers/Expression/black bone/wink.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 4,
+                "name": "Dead",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Expression/rainbow bone/dead.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 5,
+                "name": "Mischievous",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Expression/rainbow bone/mischievous.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 6,
+                "name": "Neutral",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Expression/rainbow bone/neutral.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 7,
+                "name": "Wink",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Expression/rainbow bone/wink.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 8,
+                "name": "Dead",
+                "colorScheme": "white",
+                "filename": "./layers/Expression/white bone/dead.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 9,
+                "name": "Mischievous",
+                "colorScheme": "white",
+                "filename": "./layers/Expression/white bone/mischievous.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 10,
+                "name": "Neutral",
+                "colorScheme": "white",
+                "filename": "./layers/Expression/white bone/neutral.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 11,
+                "name": "Wink",
+                "colorScheme": "white",
+                "filename": "./layers/Expression/white bone/wink.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Hat",
+        "required": false,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Devil Horns",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Devil Horns/Devil Horns.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Durag",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Durag/durag.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "Halo",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Halo/halo.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 3,
+                "name": "Silver Crown Blue Gems",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/King Crown/Silver Crown Blue Gems.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 4,
+                "name": "Silver Crown Green Gems",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/King Crown/Silver Crown Green Gems.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 5,
+                "name": "Silver Crown Red Gems",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/King Crown/Silver Crown Red Gems.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 6,
+                "name": "Yellow Crown Blue Gems",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/King Crown/Yellow Crown Blue Gems.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 7,
+                "name": "Yellow Crown Red Gems",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/King Crown/Yellow Crown Red Gems.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 8,
+                "name": "Green Mohawk1",
+                "colorScheme": "any",
+                "filename": [
+                    "./layers/Hat/Mohawk/green mohawk1.svg",
+                    "./layers/Hat/Mohawk/green mohawk2.svg"
+                ],
+                "rarityRating": 0
+            },
+            {
+                "id": 10,
+                "name": "Hat Green",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Party Hat/hat green.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 11,
+                "name": "Hat Purple",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Party Hat/hat purple.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 12,
+                "name": "Somb Blue",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Sombrero/somb blue.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 13,
+                "name": "Somb Green",
+                "colorScheme": "any",
+                "filename": "./layers/Hat/Sombrero/somb green.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Accessories",
+        "required": false,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "3d Glasses",
+                "colorScheme": "any",
+                "filename": "./layers/Accessories/3D Glasses/3d glasses.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Fire Eyes",
+                "colorScheme": "any",
+                "filename": "./layers/Accessories/Fire Eyes/fire eyes.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Hand",
+        "required": true,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Juice Box",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/juice box.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 1,
+                "name": "Middle Finger",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/middle finger.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "Okay",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/okay.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 3,
+                "name": "Peace",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/peace.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 4,
+                "name": "Smoke",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/smoke.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 5,
+                "name": "Taco",
+                "colorScheme": "black",
+                "filename": "./layers/Hand/Black Bone Hand/taco.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 6,
+                "name": "Juice Box",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/juice box.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 7,
+                "name": "Middle Finger",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/middle finger.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 8,
+                "name": "Okay",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/okay.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 9,
+                "name": "Peace",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/peace.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 10,
+                "name": "Smoke",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/smoke.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 11,
+                "name": "Taco",
+                "colorScheme": "rainbow",
+                "filename": "./layers/Hand/Rainbow Hand/taco.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 12,
+                "name": "Juice Box",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/juice box.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 13,
+                "name": "Middle Finger",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/middle finger.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 14,
+                "name": "Okay",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/okay.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 15,
+                "name": "Peace",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/peace.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 16,
+                "name": "Smoke",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/smoke.svg",
+                "rarityRating": 0
+            },
+            {
+                "id": 17,
+                "name": "Taco",
+                "colorScheme": "white",
+                "filename": "./layers/Hand/White Bone Hand/taco.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Hair",
+        "required": false,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Mustache",
+                "colorScheme": "any",
+                "filename": "./layers/Hair/mustache.svg",
+                "rarityRating": 0
+            }
+        ]
+    },
+    {
+        "name": "Shirt",
+        "required": false,
+        "path": "",
+        "elements": [
+            {
+                "id": 0,
+                "name": "Green1",
+                "colorScheme": "any",
+                "filename": [
+                    "./layers/Shirt/Goo Green/green1.svg",
+                    "./layers/Shirt/Goo Green/green2.svg"
+                ],
+                "rarityRating": 0
+            },
+            {
+                "id": 2,
+                "name": "Ilovemilk",
+                "colorScheme": "any",
+                "filename": [
+                    "./layers/Shirt/I LOVE MILK/ilovemilk.svg",
+                    "./layers/Shirt/I LOVE MILK/ilovemilk2.svg"
+                ],
+                "rarityRating": 0
+            },
+            {
+                "id": 4,
+                "name": "Tiedye4",
+                "colorScheme": "any",
+                "filename": [
+                    "./layers/Shirt/Tiedye4/tiedye4.svg",
+                    "./layers/Shirt/Tiedye4/tiedye42.svg"
+                ],
+                "rarityRating": 0
+            }
+        ]
+    }
+]

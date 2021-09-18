@@ -108,7 +108,7 @@ const constructLayerToDna = (_dna: number[]) => {
  */
 const writeMetaData = (_data: string= '') => {
     fs.writeFileSync(
-        "./generated/_metadata.json", 
+        "./generated/assets/_metadata.json", 
         _data,
     );
 };
